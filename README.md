@@ -87,4 +87,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For questions or feedback, feel free to reach out:
 
 - **Email**: tanvir.a06@uttarauniversity.edu.bd
-- **GitHub**: (https://github.com/Flutter-Tanvir)
+- **GitHub**: https://github.com/Flutter-Tanvir
